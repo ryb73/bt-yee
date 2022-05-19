@@ -1,0 +1,20 @@
+{
+  "name": "btlte",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.1",
+  "scripts": {
+    "watch": "tsc -w"
+  },
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-15",
+    "@ryb73/super-duper-parakeet": "^9.1.0",
+    "async": "^3.2.3",
+    "fp-ts": "^2.12.1",
+    "typescript": "^4.6.4"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.35"
+  }
+}
